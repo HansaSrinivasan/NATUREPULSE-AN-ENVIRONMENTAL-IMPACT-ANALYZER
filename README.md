@@ -9,7 +9,7 @@ To optimize the infrastructure planning module, Kruskal’s Minimum Spanning Tre
 The backend is built using Python with Flask, while the frontend uses HTML, CSS, and JavaScript, supported by libraries like Chart.js for data visualization. The application also allows exporting environmental data in Excel format, making it useful for reports and further analysis.
 
 ALGORITHMS & TECHNIQUES USED:
-    Kruskal’s MST (Greedy Algorithm)
+    Kruskal’s MST (Greedy Algorithm) 
     Multi-Stage Graph (Dynamic Programming)
     Hashing (Custom Hash Table for fast data retrieval)
     Merge Sort (for sorting city data)
